@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo](https://github.com/Kankana1012/Kankana1012/blob/main/pngtree-blue-digital-technology-electronic-banner-picture-image_1033187%20(1).jpg)
+![logo](https://github.com/Bijoy781999/Bijoy781999/blob/main/Computer-Science-Pictures-HD.jpg)
 
 <h1 align="center">Hi 👋, I'm Bijoy</h1>
 <h3 align="center">A B.Tech 3rd year Computer Science & Technology Student</h3>
