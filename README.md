@@ -3,7 +3,7 @@
 ![logo](https://github.com/Bijoy781999/Bijoy781999/blob/main/Computer-Science-Pictures-HD.jpg)
 
 <h1 align="center">Hi 👋, I'm Bijoy</h1>
-<h3 align="center">A B.Tech 3rd year Computer Science & Technology Student</h3>
+<h3 align="center">A B.Tech Graduate Computer Science & Technology Student</h3>
 
 - 🌱 I’m currently learning **Java and JavaScript**
 
