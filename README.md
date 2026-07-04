@@ -219,11 +219,11 @@ Explore my repositories for additional AI, Machine Learning, Deep Learning, and 
 
 <br>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bijoy781999&layout=compact&theme=github_dark&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Bijoy781999&theme=github-dark-blue&hide_border=true"/>
 
 <br>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Bijoy781999&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bijoy781999&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
