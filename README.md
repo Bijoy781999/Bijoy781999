@@ -128,7 +128,7 @@
 
 ### [📈 AI Powered Stock Prediction](https://github.com/Bijoy781999/AI-Powered-Stock-Prediction-Web-Application)
 
-[`Deep Learning-based stock forecasting with Explainable AI.`](https://github.com/Bijoy781999/AI-Powered-Stock-Prediction-Web-Application)
+##### [`Deep Learning-based stock forecasting with Explainable AI.`](https://github.com/Bijoy781999/AI-Powered-Stock-Prediction-Web-Application)
 
 </td>
 
@@ -138,9 +138,9 @@
 <img src="./assets/projects/aura-rag-thumbnail.png" alt="AURA-RAG" width="100%">
 </a>
 
-### 🛡️ AURA-RAG
+### [🛡️ AURA-RAG](https://github.com/Bijoy781999/Answerability-Aware-RAG__Knowing-When-Not-to-Answer)
 
-Answerability-aware Retrieval-Augmented Generation framework.
+##### [`Answerability-aware Retrieval-Augmented Generation framework.`](https://github.com/Bijoy781999/Answerability-Aware-RAG__Knowing-When-Not-to-Answer)
 
 </td>
 
@@ -154,9 +154,9 @@ Answerability-aware Retrieval-Augmented Generation framework.
 <img src="./assets/projects/empathetic-ai-assistant-thumbnail.png" alt="Empathetic AI Assistant" width="100%">
 </a>
 
-### 🤖 Empathetic AI Assistant
+### [🤖 Empathetic AI Assistant](https://github.com/Bijoy781999/Empathetic_AI_Assistant_-SLM-RAG-)
 
-SLM-powered conversational AI with Retrieval-Augmented Generation.
+##### [`SLM-powered conversational AI with Retrieval-Augmented Generation.`](https://github.com/Bijoy781999/Empathetic_AI_Assistant_-SLM-RAG-)
 
 </td>
 
@@ -166,9 +166,9 @@ SLM-powered conversational AI with Retrieval-Augmented Generation.
 <img src="./assets/projects/mental-health-ai-thumbnail.png" alt="Explainable AI for Mental Health Detection" width="100%">
 </a>
 
-### 🧠 Mental Health Detection
+### [🧠 Mental Health Detection](https://github.com/Bijoy781999/Explainable-AI-for-Detecting-Mental-Health-Condition)
 
-Explainable NLP system using SHAP for transparent predictions.
+##### [`Explainable NLP system using SHAP for transparent predictions.`](https://github.com/Bijoy781999/Explainable-AI-for-Detecting-Mental-Health-Condition)
 
 </td>
 
@@ -182,9 +182,9 @@ Explainable NLP system using SHAP for transparent predictions.
 <img src="./assets/projects/crud-rest-api-thumbnail.png" alt="CRUD REST API" width="100%">
 </a>
 
-### 🌐 CRUD REST API
+### [🌐 CRUD REST API](https://github.com/Bijoy781999/CRUD-REST-API-Management-System)
 
-RESTful backend API built with Node.js, Express.js & MongoDB.
+##### [`RESTful backend API built with Node.js, Express.js & MongoDB.`](https://github.com/Bijoy781999/CRUD-REST-API-Management-System)
 
 </td>
 
