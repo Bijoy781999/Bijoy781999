@@ -126,9 +126,9 @@
 <img src="./assets/projects/stock-prediction-thumbnail.png" alt="AI Powered Stock Market Prediction" width="100%">
 </a>
 
-### 📈 AI Powered Stock Prediction
+### [📈 AI Powered Stock Prediction](https://github.com/Bijoy781999/AI-Powered-Stock-Prediction-Web-Application)
 
-Deep Learning-based stock forecasting with Explainable AI.
+[`Deep Learning-based stock forecasting with Explainable AI.`](https://github.com/Bijoy781999/AI-Powered-Stock-Prediction-Web-Application)
 
 </td>
 
