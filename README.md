@@ -134,7 +134,7 @@
 
 <td align="center" width="50%">
 
-<a href="https://github.com/Bijoy781999/AURA-RAG">
+<a href="https://github.com/Bijoy781999/Answerability-Aware-RAG__Knowing-When-Not-to-Answer">
 <img src="./assets/projects/aura-rag-thumbnail.png" alt="AURA-RAG" width="100%">
 </a>
 
@@ -162,7 +162,7 @@
 
 <td align="center">
 
-<a href="https://github.com/Bijoy781999">
+<a href="https://github.com/Bijoy781999/Explainable-AI-for-Detecting-Mental-Health-Condition">
 <img src="./assets/projects/mental-health-ai-thumbnail.png" alt="Explainable AI for Mental Health Detection" width="100%">
 </a>
 
@@ -178,7 +178,7 @@
 
 <td align="center">
 
-<a href="https://github.com/Bijoy781999">
+<a href="https://github.com/Bijoy781999/CRUD-REST-API-Management-System">
 <img src="./assets/projects/crud-rest-api-thumbnail.png" alt="CRUD REST API" width="100%">
 </a>
 
@@ -215,9 +215,9 @@ Explore my repositories for additional AI, Machine Learning, Deep Learning, and 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Bijoy781999&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Bijoy781999&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="42%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bijoy781999&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Bijoy781999&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br>
 
