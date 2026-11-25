@@ -196,7 +196,7 @@
 
 ### [`🗳️ VoteChain-Hybrid_Blockchain_Voting_System`](https://github.com/Bijoy781999/VoteChain-Hybrid_Blockchain_Voting_System)
 
-##### `Voting System Using BlockChain Technology with Solidity smart contracts (Hardhat), a mutex-serialized Node.js/Express Web3 Relayer, MongoDB audit ledger, and React + Tailwind portals with voterHash privacy.`
+##### `Hybrid blockchain voting app with Solidity, Node/Express relayer, MongoDB audit trail, and React + Tailwind.`
 
 </td>
 
