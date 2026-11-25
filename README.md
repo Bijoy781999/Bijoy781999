@@ -190,6 +190,22 @@
 
 <td align="center">
 
+<a href="https://github.com/Bijoy781999/VoteChain-Hybrid_Blockchain_Voting_System">
+<img src="./assets/projects/banner.svg" alt="VoteChain" width="100%">
+</a>
+
+### [`🌐 VoteChain-Hybrid_Blockchain_Voting_System`](https://github.com/Bijoy781999/VoteChain-Hybrid_Blockchain_Voting_System)
+
+##### `Voting System Using BlockChain Technology with Solidity smart contracts (Hardhat), a mutex-serialized Node.js/Express Web3 Relayer, MongoDB audit ledger, and React + Tailwind portals with voterHash privacy.`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
 ### 🚀 More Projects
 
 Explore my repositories for additional AI, Machine Learning, Deep Learning, and Backend Development projects.
